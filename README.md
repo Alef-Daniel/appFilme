@@ -17,7 +17,11 @@ criação de loading para o App com ActivityIndicator.
 ## Demonstração
 
 
-https://github.com/Alef-Daniel/appFilme/assets/83924026/60d2bb98-a350-494c-8516-e82838fa4693
+
+
+https://github.com/Alef-Daniel/apppFilmes/assets/83924026/ed3043b3-3408-4f77-9bed-095645809750
+
+
 
 
 
